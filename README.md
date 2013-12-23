@@ -1,4 +1,0 @@
-Discret
-=======
-
-Discret_mathematic

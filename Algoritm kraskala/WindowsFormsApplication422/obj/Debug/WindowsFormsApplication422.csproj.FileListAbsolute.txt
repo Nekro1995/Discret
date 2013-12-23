@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\bin\Debug\WindowsFormsApplication422.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\bin\Debug\WindowsFormsApplication422.pdb
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\obj\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\obj\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\obj\Debug\WindowsFormsApplication422.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\obj\Debug\WindowsFormsApplication422.exe
+C:\Users\Admin\Desktop\WindowsFormsApplication4221\Backup\WindowsFormsApplication422\obj\Debug\WindowsFormsApplication422.pdb
