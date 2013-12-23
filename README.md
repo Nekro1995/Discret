@@ -5,4 +5,6 @@ Discret_mathematic
 
 Made will Visual studio 2010
 
-Been done a long job parsing service github. My ISP refused to work with applications and information transfer to the server repository.
+Created Макушов Анатолий 
+group 12-КБ-ПИ1
+Курсовая Работа По Дискретной Математике
